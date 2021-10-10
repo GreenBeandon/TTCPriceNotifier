@@ -1,0 +1,21 @@
+{
+  "name": "TriviaBot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Manastryna, GreenBeandon",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^8.2.0",
+    "extract-zip": "^2.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
